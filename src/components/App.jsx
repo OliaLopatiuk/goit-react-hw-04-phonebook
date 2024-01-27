@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { nanoid } from 'nanoid';
 import useLocalStorage from 'hooks/useLocalStorage';
 import { ContactForm } from './ContactForm/ContactForm';
